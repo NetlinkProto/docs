@@ -7,3 +7,15 @@ Goals of the project
 3. Establish inter-project communication that could lead to using common patterns, formats, solutions etc. on higher levels
 
 ...
+
+Project links
+=============
+
+Netlink implementations in:
+
+* **Go** — https://github.com/vishvananda/netlink
+* **C** — https://github.com/thom311/libnl
+* **Python** — https://github.com/svinota/pyroute2
+* **Rust** — https://github.com/little-dude/netlink
+
+... (pls update the list)
